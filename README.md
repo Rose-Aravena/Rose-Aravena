@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rose-aravena" alt="rose-aravena" /></a> </p>
 
-- 👩🏻‍💻 I’m currently working on [MD Links](https://github.com/Rose-Aravena/SCL020-md-links)
+- 👩🏻‍💻 I’m currently working on [MDLink](https://github.com/Rose-Aravena/SCL020-md-links)
 
 - 🌱 I’m currently learning **node.js**
 
