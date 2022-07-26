@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🙋🏻‍♀️, i'm Rose Aravena</h1>
 <h3 align="center">A passionate frontend developer from Santiago of Chile 🇨🇱</h3>
 
-- 👩🏻‍💻 I’m currently working on [MD Links](https://github.com/Rose-Aravena/SCL020-md-links)
+- 👩🏻‍💻 I’m currently working on [Burger Queen](https://github.com/Rose-Aravena/SCL020-burger-queen/tree/main)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **React**
 
 - 📩 How to reach me **rose.aravena@gmail.com**
 
