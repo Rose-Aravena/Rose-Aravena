@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏻‍♀️, i'm Rose Aravena</h1>
 <h3 align="center">A passionate frontend developer from Santiago of Chile 🇨🇱</h3>
 
-- 👩🏻‍💻 I’m currently working on [journalApp](https://github.com/Rose-Aravena/journalApp-React)
+- 👩🏻‍💻 I’m currently working on [journalApp]()
 
 - 🌱 I’m currently learning **React**
 
