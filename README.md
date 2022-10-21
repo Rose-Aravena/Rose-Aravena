@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🙋🏻‍♀️, i'm Rose Aravena</h1>
 <h3 align="center">A passionate frontend developer from Santiago of Chile 🇨🇱</h3>
 
-- 👩🏻‍💻 I’m currently working on [CalendarApp](https://github.com/Rose-Aravena/CalendarApp-React)
+- 👩🏻‍💻 I’m currently working on [CalendarApp-backend](https://github.com/Rose-Aravena/calendar-backend)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express** **Postman**
 
 - 📩 How to reach me **rose.aravena@gmail.com**
 
