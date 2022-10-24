@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I’m currently working on [CalendarApp-backend](https://github.com/Rose-Aravena/calendar-backend)
 
-- 🌱 I’m currently learning **Express** **Postman**
+- 🌱 I’m currently learning **Express**/**Postman**/**MongoDB**
 
 - 📩 How to reach me **rose.aravena@gmail.com**
 
